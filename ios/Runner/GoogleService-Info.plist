@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>970350076702-mv9qvftb98rbo3htqchs429ludhna9pd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.970350076702-mv9qvftb98rbo3htqchs429ludhna9pd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArPc9h5cArUPt8xWNd1kgLy5W3o9lKfsE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>970350076702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>idiotlabs.celebspushes</string>
+	<key>PROJECT_ID</key>
+	<string>celebs-pushes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>celebs-pushes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:970350076702:ios:e470ebac917df3c45c9f0f</string>
+	<key>DATABASE_URL</key>
+	<string>https://celebs-pushes.firebaseio.com</string>
+</dict>
+</plist>
